@@ -58,6 +58,7 @@ This project focuses on analyzing Dibs' customer data to enhance sales and custo
 
 **Time:** May 16 - May 31, 2024  
 **Technical Tool:** RStudio, tidyverse, dplyr, ggplot2
+
 **Outcome:** 90/100  
 
 ---
@@ -78,6 +79,7 @@ This project examines chronic disease trends across NSW, focusing on risk factor
 
 **Time:** Oct 02 - Nov 03, 2024    
 **Technical Tools**: Python, Tableau, Excel, Snowflake
+
 **Outcome:** 90/100
 
 ---
@@ -120,6 +122,7 @@ This project analyzes the most-streamed Spotify songs of 2023 using data visuali
 
 **Time:** Oct 15 - Nov 03, 2023  
 **Technical Tool:**  RStudio, Tableau, ggplot2
+
 **Outcome:** 95/100  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhjoe&label=Profile%20views&color=0e75b6&style=flat" alt="minhjoe" /> </p>
