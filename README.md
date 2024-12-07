@@ -57,7 +57,7 @@ This project focuses on analyzing Dibs' customer data to enhance sales and custo
 4. Improve inventory management for peak periods.
 
 **Time:** May 16 - May 31, 2024  
-**Technical Tool:** RStudio, tidyverse, dplyr, ggplot2.
+**Technical Tool:** RStudio, tidyverse, dplyr, ggplot2
 **Outcome:** 90/100  
 
 ---
@@ -77,7 +77,7 @@ This project examines chronic disease trends across NSW, focusing on risk factor
 3. Address regional disparities with targeted interventions.
 
 **Time:** Oct 02 - Nov 03, 2024    
-**Technical Tools**: Python, Tableau, Excel, Snowflake.
+**Technical Tools**: Python, Tableau, Excel, Snowflake
 **Outcome:** 90/100
 
 ---
@@ -95,7 +95,7 @@ A machine learning project focused on predicting car prices by leveraging data c
 - Reached **0.0759 MAPE** and **0.9697 R²** using LightGBM with a split dataset approach.
 - Delivered actionable insights on car pricing trends for business applications.
   
-**Technical Tools**: Python, Pandas, Scikit-learn, LightGBM, Random Forest.
+**Technical Tools**: Python, Pandas, Scikit-learn, LightGBM, Random Forest
 **Time:** Oct Sep 06 - Nov 01, 2024
 
 ---
@@ -119,7 +119,7 @@ This project analyzes the most-streamed Spotify songs of 2023 using data visuali
 4. **Artist Collaboration**: Encourage collaborations involving 1-3 artists per track to optimize fanbase reach and streams.
 
 **Time:** Oct 15 - Nov 03, 2023  
-**Technical Tool:**  RStudio, Tableau, ggplot2. 
+**Technical Tool:**  RStudio, Tableau, ggplot2
 **Outcome:** 95/100  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhjoe&label=Profile%20views&color=0e75b6&style=flat" alt="minhjoe" /> </p>
