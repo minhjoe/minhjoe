@@ -11,7 +11,7 @@ Welcome any feedback and learning opportunities, feel free to reach out via **jo
 
 ## 🏅 [Qatar WorldCup Games 2022](https://drive.google.com/file/d/1VWovtsDd9WC6oFtlP4Ji5H6H5G-2WcWW/view?usp=sharing)
 ### University assignment (BUSA8090: Data and Visualization for Business)
-*Designing  a structured database for the integrated game ticket selling system together with the two concerns above of Qatar 2022 World Cup, considering various aspects such as transportation, fan accomodation, number of audiences, etc., and proposing solutions for the event's operational efficiency.
+Designing  a structured database for the integrated game ticket selling system together with the two concerns above of Qatar 2022 World Cup, considering various aspects such as transportation, fan accomodation, number of audiences, etc., and proposing solutions for the event's operational efficiency.
 
 Some recommendations: (1) Shared room arrangement, (2) Integration of Systems, (3) Capacity Optimization in Transportation.*
 
