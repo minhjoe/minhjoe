@@ -37,7 +37,7 @@ Three key findings:
 ---
 
 ## 🛒 [Insightful Growth – Boosting Sales and Customer Loyalty ](https://drive.google.com/file/d/1ZovlUTuymfFABQfb7jy0VdpPLDGZ4asM/view?usp=drive_link) 
-### University assignment (BUSA3020: Advanced Analytics Techniques)
+### University assignment (BUSA8000: Techniques in Business Analytics)
 
 This project focuses on analyzing Dibs' customer data to enhance sales and customer loyalty through actionable insights and predictive modeling.
 
@@ -82,8 +82,8 @@ This project examines chronic disease trends across NSW, focusing on risk factor
 **Outcome:** 90/100
 
 ---
-## 🚘 [Car Price Predictions]()
-### [University Competition BUSA8001: Applied Predictive Analytics](#)
+## 🚘 [Car Price Predictions](https://github.com/minhjoe/Car-Price-Prediction)
+### [University Competition BUSA8001: Applied Predictive Analytics]()
 
 A machine learning project focused on predicting car prices by leveraging data cleaning, EDA, and predictive modeling techniques.
 
@@ -101,7 +101,7 @@ A machine learning project focused on predicting car prices by leveraging data c
 
 ---
 
-## 🏡 [Most Streamed Spotify Songs 2023 Analysis](https://1drv.ms/x/s!ArMe2BBR2L3YrTRxQnKrukAQy7vM?e=Dx12y5)
+## 🏡 [Most Streamed Spotify Songs 2023 Analysis](https://drive.google.com/file/d/1eGigu9YTgbKjdTTlFLSJAsJXXeWFHHfu/view?usp=sharing)
 ### University assignment (BUSA8090: Data and Visualization for Business)
 
 This project analyzes the most-streamed Spotify songs of 2023 using data visualization and analytics to uncover insights into audio features, trends, and artist performance. The analysis provides actionable recommendations for Sony Music’s marketing strategy.
