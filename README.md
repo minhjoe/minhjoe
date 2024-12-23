@@ -63,7 +63,7 @@ This project focuses on analyzing Dibs' customer data to enhance sales and custo
 
 ---
 
-## 🧑‍🤝‍🧑 [Capstone Project _ Chronic Disease Analysis](https://drive.google.com/file/d/1ZovlUTuymfFABQfb7jy0VdpPLDGZ4asM/view?usp=drive_link)
+## 🧑‍🤝‍🧑 [Capstone Project _ Chronic Disease Analysis](https://drive.google.com/drive/u/1/folders/1L1l_vZJxqM1_Ik38ELzhXf7KJEoJKTx6)
 ### University assignment (BUSA8030: Business Analytics Project)
 
 This project examines chronic disease trends across NSW, focusing on risk factors, healthcare disparities, and preventable hospitalizations.
