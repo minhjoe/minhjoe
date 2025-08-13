@@ -13,7 +13,7 @@ Welcome any feedback and learning opportunities, feel free to reach out via **jo
 #### These are some of the key projects I have worked on recently, now available for public viewing. Feel free to explore the details below:
 ---
 ### Data Visualizations:
-#### 🧑‍🤝‍🧑 [Capstone Project _ Chronic Disease Analysis](https://github.com/minhjoe/Chronic-Disease-Analysis)
+#### 🧑‍🤝‍🧑 [Chronic Disease Analysis](https://public.tableau.com/views/ChronicDiseaseDashboard_17550898420640/Overview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 #### 🏡 [Most Streamed Spotify Songs 2023 Analysis](https://github.com/minhjoe/Predictive-Analytics-for-Sony-Music-Visualizing-Song-Success-in-2023/tree/main)
 #### 📈 [Call Center Efficiency Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTc0NGM1ZmEtYTQ1Ni00Nzk1LTg5Y2UtYTA3NWU1MTc5ODI3IiwidCI6IjgyYzUxNGMxLWE3MTctNDA4Ny1iZTA2LWQ0MGQyMDcwYWQ1MiJ9)
 #### 🔍 [Customer Churn Dashboard](https://github.com/minhjoe/PowerBI-Dashboard-Portfolio/blob/main/customer-churn.pdf)
