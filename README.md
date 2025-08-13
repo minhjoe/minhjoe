@@ -10,7 +10,7 @@ Welcome any feedback and learning opportunities, feel free to reach out via **jo
 ---
 ## ✨ Main Projects
 
-These are some of the key projects I have worked on recently, now available for public viewing. Feel free to explore the details below:
+#### These are some of the key projects I have worked on recently, now available for public viewing. Feel free to explore the details below:
 ---
 ### Data Visualizations:
 #### 🧑‍🤝‍🧑 [Capstone Project _ Chronic Disease Analysis](https://drive.google.com/file/d/1CHP-bEIA4wJ4lFDXZ-MMdEQowRkdZFeb/view?usp=sharing)
