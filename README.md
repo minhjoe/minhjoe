@@ -14,10 +14,10 @@ Welcome any feedback and learning opportunities, feel free to reach out via **jo
 ---
 ### Data Visualizations:
 #### 🧑‍🤝‍🧑 [Chronic Disease Analysis](https://public.tableau.com/views/ChronicDiseaseDashboard_17550898420640/Overview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-#### 🏡 [Most Streamed Spotify Songs 2023 Analysis](https://github.com/minhjoe/Predictive-Analytics-for-Sony-Music-Visualizing-Song-Success-in-2023/tree/main)
 #### 📈 [Call Center Efficiency Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTc0NGM1ZmEtYTQ1Ni00Nzk1LTg5Y2UtYTA3NWU1MTc5ODI3IiwidCI6IjgyYzUxNGMxLWE3MTctNDA4Ny1iZTA2LWQ0MGQyMDcwYWQ1MiJ9)
 #### 🔍 [Customer Churn Dashboard](https://github.com/minhjoe/PowerBI-Dashboard-Portfolio/blob/main/customer-churn.pdf)
 #### 🌏 [Diversity Inclusion Dashboard](https://github.com/minhjoe/PowerBI-Dashboard-Portfolio/blob/main/diversity-inclusion.pdf)
+#### 🏡 [Most Streamed Spotify Songs 2023 Analysis](https://github.com/minhjoe/Predictive-Analytics-for-Sony-Music-Visualizing-Song-Success-in-2023/tree/main)
 ---
 ### SQL Projects:
 #### 🏅 [Qatar WorldCup Games 2022](https://github.com/minhjoe/SQL-Database-Design-for-Qatar-2022-World-Cup)
